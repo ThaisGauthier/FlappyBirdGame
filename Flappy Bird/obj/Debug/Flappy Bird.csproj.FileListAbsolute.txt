@@ -1,0 +1,63 @@
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csprojAssemblyReference.cache
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\MainWindow.g.cs
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\App.g.cs
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.cache
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.lref
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\MainWindow.baml
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.g.resources
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\thais\Documents\Thaïs Life\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.pdb
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\MainWindow.g.cs
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\App.g.cs
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.cache
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.lref
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\MainWindow.baml
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.g.resources
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\thais\OneDrive\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.pdb
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\MainWindow.g.cs
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\App.g.cs
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.cache
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.lref
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\MainWindow.baml
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.g.resources
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\thais\Documents\Thaïs Life\Esilv\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.pdb
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\MainWindow.g.cs
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\App.g.cs
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.cache
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.lref
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\MainWindow.baml
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.g.resources
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\thais\Documents\Thaïs Life\Esilv\3\3 - VIC\POO\Flappy Bird\obj\Debug\Flappy Bird.pdb
